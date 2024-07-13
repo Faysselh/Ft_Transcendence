@@ -1,27 +1,13 @@
-# FT_Transcendence 🧬
+# FT_transcendence 🧬
 
 <p align="center">
 <img src="frontend/public/assets/sujet-1erecouv.png" alt="Subject" width="300"/>
 <img src="frontend/public/assets/homepage.png" alt="Subject" width="600"/>
 </p>
 
-## Table of contents 📖
-
-- [About 🧬](#about---)
-  * [Tech stack ⌨](#tech-stack--)
-- [Mandatory requirements 📍](#mandatory-requirements---)
-  * [1. A Single Page Application (S.P.A.) …](#1-a-single-page-application--spa---)
-  * [… who is secure 🔐](#--who-is-secure---)
-  * [2. An Elaborate User Account  💫](#2-an-elaborate-user-account----)
-  * [3. A Complete Chat 🗨️😼](#3-a-complete-chat------)
-  * [4. A Triple-A Game 🎮](#4-a-triple-a-game---)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ## About
 
-FT_Transcendence is the last project of [42's common core](https://42.fr/le-programme/apprentissage-innovant/). This project is about building a website which hosts a Pong competition. Thanks to this website, users will be able to play Pong with each other. They will have a user interface, a chat and in-realtime online multiplayer games.
+FT_transcendence is the last project of [42's common core](https://42.fr/le-programme/apprentissage-innovant/). This project is about building a website which hosts a Pong competition. Thanks to this website, users will be able to play Pong with each other. They will have a user interface, a chat and in-realtime online multiplayer games.
 
 ### Tech stack ⌨
 
