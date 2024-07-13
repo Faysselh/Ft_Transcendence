@@ -1,4 +1,4 @@
-# FT_transcendence 🧬
+# Ft_transcendence 🧬
 
 <p align="center">
 <img src="frontend/public/assets/sujet-1erecouv.png" alt="Subject" width="300"/>
@@ -7,7 +7,7 @@
 
 ## About
 
-FT_transcendence is the last project of [42's common core](https://42.fr/le-programme/apprentissage-innovant/). This project is about building a website which hosts a Pong competition. Thanks to this website, users will be able to play Pong with each other. They will have a user interface, a chat and in-realtime online multiplayer games.
+Ft_transcendence is the last project of [42's common core](https://42.fr/le-programme/apprentissage-innovant/). This project is about building a website which hosts a Pong competition. Thanks to this website, users will be able to play Pong with each other. They will have a user interface, a chat and in-realtime online multiplayer games.
 
 ### Tech stack ⌨
 
