@@ -1,4 +1,4 @@
-# FT_Transcendence
+# FT_Transcendence 🧬
 
 <p align="center">
 <img src="frontend/public/assets/sujet-1erecouv.png" alt="Subject" width="300"/>
@@ -15,14 +15,11 @@
   * [2. An Elaborate User Account  💫](#2-an-elaborate-user-account----)
   * [3. A Complete Chat 🗨️😼](#3-a-complete-chat------)
   * [4. A Triple-A Game 🎮](#4-a-triple-a-game---)
-- [Demo 🔬](#demo---)
-- [Authors 🪧](#authors---)
-- [Some great resources to get you started 📝](#some-great-resources-to-get-you-started---)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-## About 🧬
+## About
 
 FT_Transcendence is the last project of [42's common core](https://42.fr/le-programme/apprentissage-innovant/). This project is about building a website which hosts a Pong competition. Thanks to this website, users will be able to play Pong with each other. They will have a user interface, a chat and in-realtime online multiplayer games.
 
